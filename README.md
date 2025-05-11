@@ -1,6 +1,7 @@
 # 🎮 Konsol Tabanlı Mini Oyunlar – C ile Geliştirme Projesi
 
 Bu proje, C programlama dili ile geliştirilmiş iki farklı konsol tabanlı mini oyundan oluşmaktadır. Projenin amacı, temel programlama kavramlarını (koşullar, döngüler, diziler, fonksiyonlar) oyunlaştırılmış senaryolar ile pekiştirmektir.
+[Proje Ödevi Github.pdf](https://github.com/user-attachments/files/20149401/Proje.Odevi.Github.pdf)
 
 ## 🕹️ Oyun 1: Atış Poligonu Simülasyonu
 
@@ -57,4 +58,4 @@ Bilgisayar Mühendisliği  Öğrencisi
 Dumlupınar Üniversitesi
 
 ---
-[Proje Ödevi Github.pdf](https://github.com/user-attachments/files/20149401/Proje.Odevi.Github.pdf)
+
