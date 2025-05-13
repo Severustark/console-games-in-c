@@ -55,7 +55,7 @@ Bu proje, algoritma geliştirme yeteneğini güçlendirmek, temel C dilini öğr
 
 "DAMLA ARPA"
 Bilgisayar Mühendisliği  Öğrencisi
-Dumlupınar Üniversitesi
+Dumlupınar Üniversitesi -2022
 
 ---
 
