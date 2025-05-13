@@ -1,0 +1,8 @@
+﻿  2.c
+C:\Users\MONSTER\source\repos\2\2.c(21,4): warning C4013: 'oyun1' undefined; assuming extern returning int
+C:\Users\MONSTER\source\repos\2\2.c(23,4): warning C4013: 'oyun2' undefined; assuming extern returning int
+C:\Users\MONSTER\source\repos\2\2.c(44,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\MONSTER\source\repos\2\2.c(58,17): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\MONSTER\source\repos\2\2.c(91,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\MONSTER\source\repos\2\2.c(83): warning C4716: 'oyun1': must return a value
+  2.vcxproj -> C:\Users\MONSTER\source\repos\2\x64\Debug\2.exe
